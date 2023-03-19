@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- 본문에 뱃지넣기 -->
 <!-- 뱃지 사이트  https://simpleicons.org/ -->
-<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=#E4405F&logo=로고&logoColor=로고색상"/></a> -->
+<a href="" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=#E4405F&logo=Instagram&logoColor=로고색상"/></a>
 
 <!-- stat 표시 -->
 <!-- stat 사이트  https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
