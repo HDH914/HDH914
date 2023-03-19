@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://img.shields.io/badge/HTMl-#E34F26?style=for-the-badge&logo=이미지 이름&logoColor=black">
+
 <!-- 본문에 뱃지넣기 -->
 <!-- 뱃지 사이트  https://simpleicons.org/ -->
 <!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/instagram-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
