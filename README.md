@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Java-blue?style=flat&logoColor=red"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
 
-<a href="https://blog.naver.com/haduck1226" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+<a href="https://blog.naver.com/haduck1226" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
 
