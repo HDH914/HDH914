@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/HTMl-#E34F26?style=for-the-badge&logo=이미지 이름&logoColor=black">
+<img src="https://img.shields.io/badge/HTMl-#E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
 
 <!-- 본문에 뱃지넣기 -->
 <!-- 뱃지 사이트  https://simpleicons.org/ -->
