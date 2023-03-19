@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 본문에 뱃지넣기 -->
+<!-- 뱃지 사이트  https://simpleicons.org/ -->
+<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=#E4405F&logo=로고&logoColor=로고색상"/></a> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HDH914&show_icons=true&theme=radical)
