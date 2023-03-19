@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Java-blue?style=flat&logoColor=red"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
 
+###My Blog ↓↓↓
+<a href="https://blog.naver.com/haduck1226" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+
 <!-- 본문에 뱃지넣기 -->
 <!-- 뱃지 사이트  https://simpleicons.org/ -->
 <!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/instagram-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
