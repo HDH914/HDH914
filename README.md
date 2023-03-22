@@ -19,7 +19,7 @@ I'm not good enough, but I hope I can be of any help 💪
 
 📖Studying🖊
 
-<img src="https://img.shields.io/badge/Jquery-fefefe?style=flat&logo=jQuery&logoColor=0769AD">
+<img src="https://img.shields.io/badge/Jquery-fefefe?style=flat&logo=jQuery&logoColor=0769AD"> <img src="https://img.shields.io/badge/JSP-black?style=flat&logoColor=white">
 
 
 
