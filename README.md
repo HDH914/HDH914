@@ -1,7 +1,5 @@
 ### 안녕하세요 🙂
-현재 백엔드 공부중입니다.
-
-아직 많이 부족하지만 조금이라도 제가 도움이 되었으면 좋겠습니다 💪
+현재 백엔드 공부중입니다.<br>아직 많이 부족하지만 조금이라도 제가 도움이 되었으면 좋겠습니다 💪
 
 <!--
 **HDH914/HDH914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
