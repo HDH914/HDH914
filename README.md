@@ -4,7 +4,7 @@
 아직 많이 부족하지만 조금이라도 제가 도움이 되었으면 좋겠습니다 💪
 <br><br>
 
-Hello 👋
+Hello 👋<br>
 I'm studying for the backend ✍<br>
 I'm not good enough, but I hope I can be of any help 💪
 <br>
@@ -25,7 +25,8 @@ I'm not good enough, but I hope I can be of any help 💪
 
 
 <br>
-🔥<br>
+🔥
+
 <a href="https://blog.naver.com/haduck1226" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
