@@ -18,7 +18,8 @@ I'm not good enough, but I hope I can be of any help 💪
 <img src="https://img.shields.io/badge/Java-blue?style=flat&logoColor=red"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
 
 📖Studying🖊
-<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=CSS3&logoColor=black">
+
+<img src="https://img.shields.io/badge/Jquery-fefefe?style=flat&logo=jQuery&logoColor=0769AD">
 
 
 
