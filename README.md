@@ -2,7 +2,7 @@
 <p align="center">안녕하세요👋</p>
 <p align="center">현재 백엔드 공부중입니다✍</p>
 <p align="center">아직 많이 부족하지만 조금이라도 제가 도움이 되었으면 좋겠습니다 💪</p>
-<br><br>
+<br>
 
 <p align="center">Hello 👋</p>
 <p align="center">I'm studying for the backend ✍</p>
