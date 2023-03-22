@@ -1,12 +1,12 @@
 안녕하세요 🙂
 현재 백엔드 공부중입니다.<br>아직 많이 부족하지만 조금이라도 제가 도움이 되었으면 좋겠습니다 💪
+<br>
 
-🇺🇸
 Hello
 I'm studying for the backend.<br>I'm not good enough, but I hope I can be of any help
+<br>
 
 
-🇯🇵
 <!--
 **HDH914/HDH914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
