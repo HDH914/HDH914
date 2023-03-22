@@ -11,13 +11,13 @@ I'm not good enough, but I hope I can be of any help 💪
 
 
 
-✨Skill✨
+✨ Skill ✨
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
 
 <img src="https://img.shields.io/badge/Java-blue?style=flat&logoColor=red"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
 
-📖Studying🖊
+📖 Studying 🖊
 
 <img src="https://img.shields.io/badge/Jquery-fefefe?style=flat&logo=jQuery&logoColor=0769AD"> <img src="https://img.shields.io/badge/JSP-black?style=flat&logoColor=white">
 
@@ -25,14 +25,14 @@ I'm not good enough, but I hope I can be of any help 💪
 
 
 <br>
-🔥
-
+🔥 SNS 🔥
+<br>
 <a href="https://blog.naver.com/haduck1226" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
 
 
-
+<br><br>
 <!-- stat 표시 -->
 <!-- stat 사이트  https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HDH914&show_icons=true&theme=ocean_dark)
