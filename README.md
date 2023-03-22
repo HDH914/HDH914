@@ -7,7 +7,13 @@
 <p align="center">Hello 👋</p>
 <p align="center">I'm studying for the backend ✍</p>
 <p align="center">I'm not good enough, but I hope I can be of any help 💪</p>
+<p align="center">I look forward to your kind cooperation🙇</p>
 <br>
+
+<p align="center">初めまして</p>
+<p align="center">現在バックエンドの勉強をしてます</p>
+<p align="center">まだたくさん不足ですが、少しでも私が役に立てばと思います</p>
+<p align="center">よろしくお願いいたします🙇</p>
 
 <p align="center">✨ Skill ✨</p>
 <p align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=black"></p>
