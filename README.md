@@ -30,4 +30,6 @@
 <br><br>
 <!-- stat 표시 -->
 <!-- stat 사이트  https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HDH914&show_icons=true&theme=ocean_dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HDH914&show_icons=true&theme=ocean_dark) -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HDH914)](https://github.com/anuraghazra/github-readme-stats)
