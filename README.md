@@ -8,13 +8,13 @@
 
 <p align="center">Hello 👋</p>
 <p align="center">I'm studying for the backend ✍</p>
-<p align="center">I'm not good enough, but I hope I can be of any help 💪</p>
+<p align="center">I'm not good enough, but I hope I can be of any help </p>
 <p align="center">I look forward to your kind cooperation</p>
 <br>
 
-<p align="center">初めまして</p>
-<p align="center">現在バックエンドの勉強をしてます</p>
-<p align="center">まだたくさん不足ですが、少しでも私が役に立てばと思います</p>
+<p align="center">初めまして。</p>
+<p align="center">現在バックエンドの勉強をしてます。</p>
+<p align="center">まだたくさん不足ですが、少しでも私が役に立てばと思います！</p>
 <p align="center">よろしくお願いいたします🙇</p>
 <br><br>
 <p align="center">✨ Skill ✨</p>
